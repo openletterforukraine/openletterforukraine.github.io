@@ -4,6 +4,10 @@
 
 [Live update - Europe Beyond Coal - EU's Expenses on Russian Fuels](https://beyond-coal.eu/russian-fossil-fuel-tracker/)
 
+[7 April 2022 - DIW - Energy Supply Security in Germany Can Be Guaranteed even without Natural Gas from Russia](https://www.diw.de/de/diw_01.c.839511.de/publikationen/diw_focus/2022_0007/energy_supply_security_in_germany_can_be_guaranteed_even_without_natural_gas_from_russia.html)
+
+[7 April 2022 - PEI - EU could become independent from Russian commodities already in 2022](https://pie.net.pl/en/eu-could-become-independent-from-russian-commodities-already-in-2022-2/)
+
 [5 April 2022 - Nature - The EU can simultaneously end dependence on Russia and meet climate goals](https://www.nature.com/articles/d41586-022-00920-y)
 
 [25 March 2022 - Vox EU - What if Germany is cut off from Russian energy?](https://voxeu.org/article/what-if-germany-cut-russian-energy)
@@ -19,6 +23,8 @@
 [17 March 2022 - Bruegel - Can Europe manage if Russian oil and coal are cut off?](https://www.bruegel.org/2022/03/can-europe-manage-if-russian-oil-and-coal-are-cut-off/)
 
 [11 March 2022 - Euroactiv - Europe must do whatever it takes to save Ukraine](https://www.euractiv.com/section/economy-jobs/opinion/europe-must-do-whatever-it-takes-to-save-ukraine/)
+
+[9 March 2022 - Vox EU - Cutting Russia’s fossil fuel exports: Short-term pain for long-term gain](https://voxeu.org/article/cutting-russia-s-fossil-fuel-exports-short-term-pain-long-term-gain)
 
 [8 March 2022 - France24 - Can the West do without Russian oil and gas?](https://youtu.be/QUg3Tjrx4gE?t=437)
 
