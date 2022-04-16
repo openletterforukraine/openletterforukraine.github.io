@@ -1,8 +1,8 @@
-[HOME](index.md) - [SIGNATORIES](index.md#signatories) - [SOURCES](sources.md)
+[HOME](index.md) - [SIGN](index.md#to-sign-this-letter-please-send-your-name-title-position-and-name-of-your-institution-to-openletterforukrainepmme-please-include-i-wish-to-sign-the-open-letter-for-ukraine-in-the-subject-line) [SIGNATORIES](index.md#signatories) - [SOURCES](sources.md)
 
 March 23rd, 2022
 
-# 🇺🇦 **Open Letter of European Academic Community Supporting an Embargo on Fossil Fuels from the Russian Federation**
+# **Open Letter of European Academic Community Supporting an Embargo on Fossil Fuels from the Russian Federation**
 
 We, European scientists, in the face of the brutal aggression of Vladimir Putin against an
 independent country of Ukraine, appeal to the authorities of the European Union to immediately
