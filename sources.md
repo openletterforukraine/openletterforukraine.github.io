@@ -16,7 +16,7 @@
 
 [18 March 2022 - IEA - Emergency measures can quickly cut global oil demand](https://www.iea.org/news/emergency-measures-can-quickly-cut-global-oil-demand-by-2-7-million-barrels-a-day-reducing-the-risk-of-a-damaging-supply-crunch)
 
-[17 March, 2022 - Bruegel - Can Europe manage if Russian oil and coal are cut off?](https://www.bruegel.org/2022/03/can-europe-manage-if-russian-oil-and-coal-are-cut-off/)
+[17 March 2022 - Bruegel - Can Europe manage if Russian oil and coal are cut off?](https://www.bruegel.org/2022/03/can-europe-manage-if-russian-oil-and-coal-are-cut-off/)
 
 [11 March 2022 - Euroactiv - Europe must do whatever it takes to save Ukraine](https://www.euractiv.com/section/economy-jobs/opinion/europe-must-do-whatever-it-takes-to-save-ukraine/)
 
@@ -26,9 +26,9 @@
 
 [3 March 2022 - IEA - How Europe can cut natural gas imports from Russia significantly within a year](https://www.iea.org/news/how-europe-can-cut-natural-gas-imports-from-russia-significantly-within-a-year)
 
-[28 February, 2022 - Bruegel - Preparing for the first winter without Russian gas](https://www.bruegel.org/2022/02/preparing-for-the-first-winter-without-russian-gas/)
+[28 February 2022 - Bruegel - Preparing for the first winter without Russian gas](https://www.bruegel.org/2022/02/preparing-for-the-first-winter-without-russian-gas/)
 
 [March 2014 - PLOS ONE - Resilience of Natural Gas Networks during Conflicts, Crises and Disruptions](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0090265&type=printable)
 
 
-### Please report new sources to [openletterforukraine@pm.me](mailto:openletterforukraine@pm.me). Please include “Sources” in the subject line.
+#### Please report new sources to [openletterforukraine@pm.me](mailto:openletterforukraine@pm.me). Please include “Sources” in the subject line.
