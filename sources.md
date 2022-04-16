@@ -26,6 +26,8 @@
 
 [9 March 2022 - Vox EU - Cutting Russia’s fossil fuel exports: Short-term pain for long-term gain](https://voxeu.org/article/cutting-russia-s-fossil-fuel-exports-short-term-pain-long-term-gain)
 
+[8 March 2022 - Leopoldina - Wie sich russisches Erdgas in der deutschen und europäischen Energieversorgung ersetzen lässt](https://www.leopoldina.org/en/publications/detailview/publication/wie-sich-russisches-erdgas-in-der-deutschen-und-europaeischen-energieversorgung-ersetzen-laesst-2022/)
+
 [8 March 2022 - France24 - Can the West do without Russian oil and gas?](https://youtu.be/QUg3Tjrx4gE?t=437)
 
 [4 March 2022 - Europe Beyond Coal - Statement on the Invasion on Ukraine](https://beyond-coal.eu/2022/03/04/statement-on-the-invasion-of-ukraine/)
