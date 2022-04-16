@@ -31,4 +31,4 @@
 [March 2014 - PLOS ONE - Resilience of Natural Gas Networks during Conflicts, Crises and Disruptions](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0090265&type=printable)
 
 
-# Please report new sources to [openletterforukraine@pm.me](mailto:openletterforukraine@pm.me). Please include “Sources” in the subject line.
+### Please report new sources to [openletterforukraine@pm.me](mailto:openletterforukraine@pm.me). Please include “Sources” in the subject line.
