@@ -41,8 +41,6 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 
 #### To sign this letter please send your name, title, position and name of your institution to [openletterforukraine@pm.me](mailto:openletterforukraine@pm.me?subject=I%20wish%20to%20sign%20the%20Open%20Letter%20for%20Ukraine). Please include _"I wish to sign the Open Letter for Ukraine"_ in the subject line.
 
-..................................................................................................................
-
 ### Signatories:
 
 1. Anna Bogdan, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
