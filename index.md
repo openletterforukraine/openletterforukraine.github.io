@@ -1,5 +1,4 @@
-[Sources](sources.md)
-[EU's Expenses on Russian Fuels](https://beyond-coal.eu/russian-fossil-fuel-tracker/) - [Winter without Russian Gas](https://www.bruegel.org/2022/02/preparing-for-the-first-winter-without-russian-gas/) - [Embargo&Climate](https://www.nature.com/articles/d41586-022-00920-y) - [Economic Rationale](https://www.dropbox.com/s/wmptre3vkfkqysf/Guriev%20Itskhoki.pdf?dl=0)
+[SOURCES](sources.md) - [SIGNATORIES](index.md#signatories)
 
 <iframe src="https://energyandcleanair.github.io/russia_counter_widget/" style="height: 400px; width: 100%; border: none;max-width:830px;margin:0 auto;display:block"></iframe>
 March 23rd, 2022
