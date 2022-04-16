@@ -1,3 +1,5 @@
+[HOME](index.md) - [SIGNATORIES](index.md#signatories) - [SOURCES](sources.md)
+
 ## Sources:
 
 [EU's Expenses on Russian Fuels](https://beyond-coal.eu/russian-fossil-fuel-tracker/)
