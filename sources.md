@@ -1,3 +1,5 @@
+## Sources:
+
 [EU's Expenses on Russian Fuels](https://beyond-coal.eu/russian-fossil-fuel-tracker/)
 
 [Winter without Russian Gas](https://www.bruegel.org/2022/02/preparing-for-the-first-winter-without-russian-gas/)
