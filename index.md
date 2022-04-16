@@ -1,4 +1,4 @@
-[HOME](index.md) - [SIGN](index.md#to-sign-this-letter-please-send-your-name-title-position-and-name-of-your-institution-to-openletterforukrainepmme-please-include-i-wish-to-sign-the-open-letter-for-ukraine-in-the-subject-line) - [SIGNATORIES](index.md#signatories) - [SOURCES](sources.md)
+[LETTER](index.md) - [SIGN](index.md#to-sign-this-letter-please-send-your-name-title-position-and-name-of-your-institution-to-openletterforukrainepmme-please-include-i-wish-to-sign-the-open-letter-for-ukraine-in-the-subject-line) - [SIGNATORIES](index.md#signatories) - [SOURCES](sources.md)
 
 March 23rd, 2022
 
