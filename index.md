@@ -1,4 +1,4 @@
-[HOME](index.md) - [SIGNATORIES](index.md#signatories) - [SOURCES](sources.md
+[HOME](index.md) - [SIGNATORIES](index.md#signatories) - [SOURCES](sources.md)
 
 March 23rd, 2022
 
