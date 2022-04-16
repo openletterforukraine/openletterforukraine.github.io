@@ -1,5 +1,7 @@
 [LETTER](index.md) - [SIGN](index.md#to-sign-this-letter-please-send-your-name-title-position-and-name-of-your-institution-to-openletterforukrainepmme-please-include-i-wish-to-sign-the-open-letter-for-ukraine-in-the-subject-line) - [SIGNATORIES](index.md#signatories) - [SOURCES](sources.md)
 
+![Flag_of_Ukraine](https://user-images.githubusercontent.com/103782853/163691883-bf56273d-bab8-4a81-a8b7-60be1fbf3423.png)
+
 March 23rd, 2022
 
 # **Open Letter of European Academic Community Supporting an Embargo on Fossil Fuels from the Russian Federation**
