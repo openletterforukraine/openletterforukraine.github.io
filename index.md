@@ -54,14 +54,15 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 3. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
 4. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
 5. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-6. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
-7. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-8. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
-9. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
-10. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
-11. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-12. Łukasz Rachel, Ph.D., Princeton University
-13. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-14. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-15. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
-16. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+6. Izabela Mironowicz, Professor, Gdańsk University of Technology
+7. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
+8. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+9. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
+10. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
+11. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
+12. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+13. Łukasz Rachel, Ph.D., Princeton University
+14. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+15. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+16. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
+17. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
