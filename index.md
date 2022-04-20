@@ -54,18 +54,19 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 3. Wojciech Bujalski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
 4. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
 5. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
-6. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-7. Izabela Mironowicz, Professor, Gdańsk University of Technology
-8. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
-9. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-10. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
-11. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
-12. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
-13. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-14. Łukasz Rachel, Ph.D., Princeton University
-15. Roman Ruczyński, Ph.D., Gdańsk University of Technology
-16. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
-17. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-18. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-19. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
-20. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+6. Detlef Kurth, Prof. Dr.-Ing., Technische Universität Kaiserslautern
+7. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+8. Izabela Mironowicz, Professor, Gdańsk University of Technology
+9. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
+10. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+11. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
+12. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
+13. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
+14. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+15. Łukasz Rachel, Ph.D., Princeton University
+16. Roman Ruczyński, Ph.D., Gdańsk University of Technology
+17. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
+18. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+19. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+20. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
+21. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
