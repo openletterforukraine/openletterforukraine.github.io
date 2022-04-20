@@ -46,7 +46,7 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 
 > ### **To sign this letter please send your name, title, position and name of your institution to [openletterforukraine@pm.me](mailto:openletterforukraine@pm.me?subject=I%20wish%20to%20sign%20the%20Open%20Letter%20for%20Ukraine). Please include _"I wish to sign the Open Letter for Ukraine"_ in the subject line.**
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fopenletterforukraine.github.io%2F&layout=button&size=small&width=67&height=20&appId" width="67" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ### Signatories:
 
