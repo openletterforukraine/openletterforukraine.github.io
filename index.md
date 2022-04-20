@@ -53,22 +53,23 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 1. Monika Arczyńska, Ph.D., Adjunct professor, Gdańsk University of Technology
 2. Anna Bogdan, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
 3. Wojciech Bujalski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-4. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
-5. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
-6. Detlef Kurth, Prof. Dr.-Ing., Technische Universität Kaiserslautern
-7. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-8. Izabela Mironowicz, Professor, Gdańsk University of Technology
-9. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
-10. Michael Neuman, Professor, University of Westminster
-11. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-12. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
-13. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
-14. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
-15. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-16. Łukasz Rachel, Ph.D., Princeton University
-17. Roman Ruczyński, Ph.D., Gdańsk University of Technology
-18. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
-19. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-20. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-21. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
-22. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+4. Nick Hacking, Ph.D, School of Social Sciences Cardiff University
+5. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
+6. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
+7. Detlef Kurth, Prof. Dr.-Ing., Technische Universität Kaiserslautern
+8. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+9. Izabela Mironowicz, Professor, Gdańsk University of Technology
+10. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
+11. Michael Neuman, Professor, University of Westminster
+12. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+13. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
+14. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
+15. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
+16. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+17. Łukasz Rachel, Ph.D., Princeton University
+18. Roman Ruczyński, Ph.D., Gdańsk University of Technology
+19. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
+20. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+21. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+22. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
+23. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
