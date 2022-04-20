@@ -1,3 +1,6 @@
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v13.0" nonce="Q22reBJq"></script>
+
 [LETTER](index.md) - [SIGN](index.md#to-sign-this-letter-please-send-your-name-title-position-and-name-of-your-institution-to-openletterforukrainepmme-please-include-i-wish-to-sign-the-open-letter-for-ukraine-in-the-subject-line) - [SIGNATORIES](index.md#signatories) - [SOURCES](sources.md)
 
 ![Flag_of_Ukraine_small](https://user-images.githubusercontent.com/103782853/163692086-ae1d5ab7-17d7-4c40-8549-f5cdf53e0b67.png)
@@ -46,7 +49,7 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 
 > ### **To sign this letter please send your name, title, position and name of your institution to [openletterforukraine@pm.me](mailto:openletterforukraine@pm.me?subject=I%20wish%20to%20sign%20the%20Open%20Letter%20for%20Ukraine). Please include _"I wish to sign the Open Letter for Ukraine"_ in the subject line.**
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fopenletterforukraine.github.io%2F&layout=button&size=small&width=67&height=20&appId" width="67" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <div class="fb-share-button" data-href="https://openletterforukraine.github.io/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fopenletterforukraine.github.io%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Udostępnij</a></div>
 
 ### Signatories:
 
