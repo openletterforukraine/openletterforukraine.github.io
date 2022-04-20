@@ -44,25 +44,28 @@ decisions. Let us take that momentous occasion and make that decision for the go
 Ukrainian nation, for the good of the free democratic world and for the good of our planet.
 
 
-> #### **To sign this letter please send your name, title, position and name of your institution to [openletterforukraine@pm.me](mailto:openletterforukraine@pm.me?subject=I%20wish%20to%20sign%20the%20Open%20Letter%20for%20Ukraine). Please include _"I wish to sign the Open Letter for Ukraine"_ in the subject line.**
+> ### **To sign this letter please send your name, title, position and name of your institution to [openletterforukraine@pm.me](mailto:openletterforukraine@pm.me?subject=I%20wish%20to%20sign%20the%20Open%20Letter%20for%20Ukraine). Please include _"I wish to sign the Open Letter for Ukraine"_ in the subject line.**
 
 
 ### Signatories:
 
-1. Anna Bogdan, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-2. Wojciech Bujalski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-3. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
-4. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
-5. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-6. Izabela Mironowicz, Professor, Gdańsk University of Technology
-7. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
-8. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-9. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
-10. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
-11. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
-12. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-13. Łukasz Rachel, Ph.D., Princeton University
-14. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-15. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-16. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
-17. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+1. Monika Arczyńska, Ph.D., Adjunct professor, Gdańsk University of Technology
+2. Anna Bogdan, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+3. Wojciech Bujalski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+4. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
+5. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
+6. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+7. Izabela Mironowicz, Professor, Gdańsk University of Technology
+8. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
+9. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+10. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
+11. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
+12. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
+13. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+14. Łukasz Rachel, Ph.D., Princeton University
+15. Roman Ruczyński, Ph.D., Gdańsk University of Technology
+16. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
+17. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+18. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+19. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
+20. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
