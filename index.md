@@ -59,15 +59,16 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 7. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
 8. Izabela Mironowicz, Professor, Gdańsk University of Technology
 9. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
-10. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-11. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
-12. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
-13. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
-14. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-15. Łukasz Rachel, Ph.D., Princeton University
-16. Roman Ruczyński, Ph.D., Gdańsk University of Technology
-17. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
-18. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-19. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-20. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
-21. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+10. Michael Neuman, Professor, University of Westminster
+11. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+12. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
+13. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
+14. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
+15. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+16. Łukasz Rachel, Ph.D., Princeton University
+17. Roman Ruczyński, Ph.D., Gdańsk University of Technology
+18. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
+19. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+20. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+21. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
+22. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
