@@ -53,31 +53,41 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 1. Monika Arczyńska, Ph.D., Adjunct professor, Gdańsk University of Technology
 2. Anna Bogdan, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
 3. Wojciech Bujalski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-4. Cristiana Croitoru, Ph.D. Habil., Associate Professor, Technical University of Civil Engineering Bucharest
-5. Nick Hacking, Ph.D, School of Social Sciences Cardiff University
-6. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
-7. Karol Jan Kowalski, Ph.D., Associate Professor, Warsaw University of Technology
-8. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
-9. Jarek Kurnitski, Prof. Dr. Eng., Professor, Tallinn University of Technology
-10. Detlef Kurth, Prof. Dr.-Ing., Technische Universität Kaiserslautern
-11. Håkan Lane, Research Group Scientific Methods, Brandenburg Medical School
-12. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-13. Izabela Mironowicz, Professor, Gdańsk University of Technology
-14. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
-15. Michael Neuman, Professor, University of Westminster
-16. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-17. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
-18. Paweł Pedrycz, Ph.D., Assistant Professor, Warsaw University of Technology
-19. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
-20. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
-21. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-22. Karol Prałat, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-23. Agnes Psikuta, Ph.D., Swiss Federal Laboratories for Materials Science and Technology
-24. Łukasz Rachel, Ph.D., Princeton University
-25. Roman Ruczyński, Ph.D., Gdańsk University of Technology
-26. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
-27. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-28. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-29. Hubert Trammer, member of the High Level Roundtable of the New European Bauhaus
-30. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
-31. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+4. Jerzy Chojnacki, Ph.D. Sc.Eng., Koszalin University of Technology
+5. Cristiana Croitoru, Ph.D. Habil., Associate Professor, Technical University of Civil Engineering Bucharest
+6. Piotr Gołębiowski, Ph.D., Assistant Professor, Warsaw University of Technology
+7. Nick Hacking, Ph.D, School of Social Sciences Cardiff University
+8. Jaap Hogeling, P.Eng., M.Sc., ASHRAE Director-At-Large, Editor-in-Chief of the REHVA-Journal
+9. Oleksandra Ivashchenko, Ph.D., Medical Physicist, Leiden University Medical Center
+10. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
+11. Karol Jan Kowalski, Ph.D., Associate Professor, Warsaw University of Technology
+12. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
+13. Jarek Kurnitski, Prof. Dr. Eng., Professor, Tallinn University of Technology
+14. Detlef Kurth, Prof. Dr.-Ing., Technische Universität Kaiserslautern
+15. Håkan Lane, Research Group Scientific Methods, Brandenburg Medical School
+16. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+17. Izabela Mironowicz, Professor, Gdańsk University of Technology
+18. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
+19. Michael Neuman, Professor, University of Westminster
+20. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+21. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
+22. Paweł Pedrycz, Ph.D., Assistant Professor, Warsaw University of Technology
+23. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
+24. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
+25. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+26. Karol Prałat, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+27. Agnes Psikuta, Ph.D., Swiss Federal Laboratories for Materials Science and Technology
+28. Łukasz Rachel, Ph.D., Princeton University
+29. Roman Ruczyński, Ph.D., Gdańsk University of Technology
+30. Robert Sekret, Prof. Dr. Eng., Professor, Czestochowa University of Technology
+31. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
+32. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+33. Rafał Świercz,  Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+34. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+35. Hubert Trammer, member of the High Level Roundtable of the New European Bauhaus
+36. Andreas Wagner, Prof. Dipl.-Ing., Karlsruhe Institute of Technology
+37. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
+38. Leszek Wiśniewski, Ph.D. Candidate, Warsaw University of Technology
+39. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+40. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+
