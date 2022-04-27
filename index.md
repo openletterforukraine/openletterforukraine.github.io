@@ -98,5 +98,13 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 46. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
 47. Leszek Wiśniewski, Ph.D. Candidate, Warsaw University of Technology
 48. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-49. Kinga Zinowiec-Cieplik Ph.D., Assistant Professor, Warsaw University of Technology
-50. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+49. Martina Winkler, Prof. Ph. D., Christian-Albrechts-Universität zu Kiel
+50. Kinga Zinowiec-Cieplik Ph.D., Assistant Professor, Warsaw University of Technology
+51. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+
+# Signatories affiliated outside Europe:
+52. David Amborski, Professor, Ryerson University
+53. Omer Bartov, John P. Birkelund Distinguished Professor, Brown University
+54. John Connelly, Professor, University of California, Berkeley
+55. Roger E. Kanet, Ph.D., Professor Emeritus, University of Miami & University of Illinois at Urbana-Champaign
+56. David R. Marples, Distinguished University Professor, University of Alberta, Canada
