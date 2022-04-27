@@ -20,8 +20,6 @@
 
 [25 March 2022 - Vox EU - What if Germany is cut off from Russian energy?](https://voxeu.org/article/what-if-germany-cut-russian-energy)
 
-[23 March 2022 - IPHR - Open letter urging the EU leaders to impose energy sanctions on the Russian Federation](https://www.iphronline.org/open-letter-eu-energy-sanctions-russia.html)
-
 [22 March 2022 - Guriev & Itshoki - The Economic Rationale for Oil and Gas Embargo on Putin's Regime](https://www.dropbox.com/s/wmptre3vkfkqysf/Guriev%20Itskhoki.pdf?dl=0)
 
 [22 March 2022 - Vox EU - Economics and politics of measures to stop financing Russian aggression against Ukraine](https://voxeu.org/article/economics-and-politics-measures-stop-financing-russian-aggression-against-ukraine)
@@ -31,8 +29,6 @@
 [18 March 2022 - IEA - Emergency measures can quickly cut global oil demand](https://www.iea.org/news/emergency-measures-can-quickly-cut-global-oil-demand-by-2-7-million-barrels-a-day-reducing-the-risk-of-a-damaging-supply-crunch)
 
 [17 March 2022 - Bruegel - Can Europe manage if Russian oil and coal are cut off?](https://www.bruegel.org/2022/03/can-europe-manage-if-russian-oil-and-coal-are-cut-off/)
-
-[11 March 2022 - Euroactiv - Europe must do whatever it takes to save Ukraine](https://www.euractiv.com/section/economy-jobs/opinion/europe-must-do-whatever-it-takes-to-save-ukraine/)
 
 [9 March 2022 - Vox EU - Cutting Russia’s fossil fuel exports: Short-term pain for long-term gain](https://voxeu.org/article/cutting-russia-s-fossil-fuel-exports-short-term-pain-long-term-gain)
 
