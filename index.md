@@ -73,7 +73,7 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 21. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
 22. Jarek Kurnitski, Prof. Dr. Eng., Professor, Tallinn University of Technology
 23. Detlef Kurth, Prof. Dr.-Ing., Technische Universität Kaiserslautern
-24. Taras Kuzio, National University of Kyiv Mohyla Academy
+24. Taras Kuzio, Professor, National University of Kyiv Mohyla Academy
 25. Kwieciński Krystian, Ph.D., Assistant Professor, Warsaw University of Technology
 26. Håkan Lane, Research Group Scientific Methods, Brandenburg Medical School
 27. Agnieszka Machowska, Ph.D. D.Sc., Assistant Professor, Warsaw University of Technology
