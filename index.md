@@ -113,7 +113,11 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 
 57. David Amborski, Professor, Ryerson University
 58. Omer Bartov, John P. Birkelund Distinguished Professor, Brown University
-59. John Connelly, Professor, University of California, Berkeley
-60. Roger E. Kanet, Ph.D., Professor Emeritus, University of Miami & University of Illinois at Urbana-Champaign
-61. David R. Marples, Distinguished University Professor, University of Alberta
-62. Alexander J. Motyl, Professor, Rutgers University-Newark
+59. Olga Bertelsen, Ph.D., Associate Professor, Tiffin University
+60. John Connelly, Professor, University of California, Berkeley
+61. Roger E. Kanet, Ph.D., Professor Emeritus, University of Miami & University of Illinois at Urbana-Champaign
+62. David R. Marples, Distinguished University Professor, University of Alberta
+63. Alexander J. Motyl, Professor, Rutgers University-Newark
+64. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret. , Columbia University
+
+
