@@ -1,4 +1,4 @@
-[LETTER](index.md) - [SIGN](index.md#to-sign-this-letter-please-send-your-name-title-position-and-name-of-your-institution-to-openletterforukrainepmme-please-include-i-wish-to-sign-the-open-letter-for-ukraine-in-the-subject-line) - [SIGNATORIES](index.md#signatories) - [SOURCES](sources.md)
+[HOME](index.md) - [HOW TO SIGN?](index.md#to-sign-this-letter-please-send-your-name-title-position-and-name-of-your-institution-to-openletterforukrainepmme-please-include-i-wish-to-sign-the-open-letter-for-ukraine-in-the-subject-line) - [SIGNATORIES](index.md#signatories) - [FACTS ON EMBARGO](sources.md)
 
 ![Flag_of_Ukraine_small](https://user-images.githubusercontent.com/103782853/163692086-ae1d5ab7-17d7-4c40-8549-f5cdf53e0b67.png)
 
