@@ -102,7 +102,7 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 50. Kinga Zinowiec-Cieplik Ph.D., Assistant Professor, Warsaw University of Technology
 51. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
 
-# Signatories affiliated outside Europe:
+### Signatories affiliated outside Europe:
 52. David Amborski, Professor, Ryerson University
 53. Omer Bartov, John P. Birkelund Distinguished Professor, Brown University
 54. John Connelly, Professor, University of California, Berkeley
