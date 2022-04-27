@@ -129,5 +129,6 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 74. Askold Lozynskyj, President Ukrainian Free University Foundation
 75. David R. Marples, Distinguished University Professor, University of Alberta
 76. Alexander J. Motyl, Professor, Rutgers University-Newark
-77. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret. , Columbia University
-78. Steven J. Zipperstein, Professor, Stanford University
+77. Steven Seegel, Professor, University of Texas at Austin
+78. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret. , Columbia University
+79. Steven J. Zipperstein, Professor, Stanford University
