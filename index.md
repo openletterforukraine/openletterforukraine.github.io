@@ -97,15 +97,17 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 45. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
 46. Rafał Świercz,  Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
 47. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-48. Hubert Trammer, member of the High Level Roundtable of the New European Bauhaus
-49. Andreas Wagner, Prof. Dipl.-Ing., Karlsruhe Institute of Technology
-50. Janusz Walo, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-51. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
-52. Leszek Wiśniewski, Ph.D. Candidate, Warsaw University of Technology
-53. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-54. Martina Winkler, Prof. Ph. D., Christian-Albrechts-Universität zu Kiel
-55. Kinga Zinowiec-Cieplik Ph.D., Assistant Professor, Warsaw University of Technology
-56. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+48. Stefan Troebst, Prof. em. Dr., Leipzig University
+49. Hubert Trammer, member of the High Level Roundtable of the New European Bauhaus
+50. Andreas Wagner, Prof. Dipl.-Ing., Karlsruhe Institute of Technology
+51. Janusz Walo, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+52. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
+53. Leszek Wiśniewski, Ph.D. Candidate, Warsaw University of Technology
+54. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+55. Martina Winkler, Prof. Ph. D., Christian-Albrechts-Universität zu Kiel
+56. Alexander Wöll, Professor, University of Potsdam
+57. Kinga Zinowiec-Cieplik Ph.D., Assistant Professor, Warsaw University of Technology
+58. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
 
 ### Signatories affiliated outside Europe:
 
