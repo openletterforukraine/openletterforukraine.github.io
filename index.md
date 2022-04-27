@@ -98,37 +98,40 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 46. Roman Ruczyński, Ph.D., Gdańsk University of Technology
 47. Per Anders Rudling, Associate Profossor, Lund University
 48. Robert Sekret, Prof. Dr. Eng., Professor, Czestochowa University of Technology
-49. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
-50. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-51. Rafał Świercz,  Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-52. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-53. Stefan Troebst, Prof. em. Dr., Leipzig University
-54. Hubert Trammer, member of the High Level Roundtable of the New European Bauhaus
-55. Bohdan Vitvitsky, Ph.D., J.D., independent scholar
-56. Andreas Wagner, Prof. Dipl.-Ing., Karlsruhe Institute of Technology
-57. Janusz Walo, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-58. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
-59. Leszek Wiśniewski, Ph.D. Candidate, Warsaw University of Technology
-60. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-61. Martina Winkler, Prof. Ph. D., Christian-Albrechts-Universität zu Kiel
-62. Alexander Wöll, Professor, University of Potsdam
-63. Kinga Zinowiec-Cieplik Ph.D., Assistant Professor, Warsaw University of Technology
-64. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+49. Nikola Schmidt, Ph.D., Senior Researcher, Institute of International Relations, Prague
+50. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
+51. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+52. Rafał Świercz,  Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+53. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+54. Stefan Troebst, Prof. em. Dr., Leipzig University
+55. Hubert Trammer, member of the High Level Roundtable of the New European Bauhaus
+56. Bohdan Vitvitsky, Ph.D., J.D., independent scholar
+57. Andreas Wagner, Prof. Dipl.-Ing., Karlsruhe Institute of Technology
+58. Janusz Walo, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+59. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
+60. Leszek Wiśniewski, Ph.D. Candidate, Warsaw University of Technology
+61. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+62. Martina Winkler, Prof. Ph. D., Christian-Albrechts-Universität zu Kiel
+63. Alexander Wöll, Professor, University of Potsdam
+64. Kinga Zinowiec-Cieplik Ph.D., Assistant Professor, Warsaw University of Technology
+65. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
 
 ### Signatories affiliated outside Europe:
 
-65. David Amborski, Professor, Ryerson University
-66. Omer Bartov, John P. Birkelund Distinguished Professor, Brown University
-67. Fabian Baumann, Ph.D., Postdoctoral Researcher, University of Chicago
-68. Olga Bertelsen, Ph.D., Associate Professor, Tiffin University
-69. Walter Clemens, Dr., Associate, Harvard University & Professor Emeritus, Boston University
-70. John Connelly, Professor, University of California, Berkeley
-71. Michael P. Hrycak, J.D., Adj. Professor, Union County College, Cranford, New Jersey
-72. Roger E. Kanet, Ph.D., Professor Emeritus, University of Miami & University of Illinois at Urbana-Champaign
-73. Bohdan Klid, Research Associate, University of Alberta
-74. Askold Lozynskyj, President Ukrainian Free University Foundation
-75. David R. Marples, Distinguished University Professor, University of Alberta
-76. Alexander J. Motyl, Professor, Rutgers University-Newark
-77. Steven Seegel, Professor, University of Texas at Austin
-78. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret. , Columbia University
-79. Steven J. Zipperstein, Professor, Stanford University
+66. Denise de Alcantara Pereira, Associate Professor, Federal Rural University of Rio de Janeiro
+67. David Amborski, Professor, Ryerson University
+68. Omer Bartov, John P. Birkelund Distinguished Professor, Brown University
+69. Fabian Baumann, Ph.D., Postdoctoral Researcher, University of Chicago
+70. Olga Bertelsen, Ph.D., Associate Professor, Tiffin University
+71. Walter Clemens, Dr., Associate, Harvard University & Professor Emeritus, Boston University
+72. John Connelly, Professor, University of California, Berkeley
+73. Michael P. Hrycak, J.D., Adj. Professor, Union County College, Cranford, New Jersey
+74. Roger E. Kanet, Ph.D., Professor Emeritus, University of Miami & University of Illinois at Urbana-Champaign
+75. Bohdan Klid, Research Associate, University of Alberta
+76. Askold Lozynskyj, President Ukrainian Free University Foundation
+77. David R. Marples, Distinguished University Professor, University of Alberta
+78. Alexander J. Motyl, Professor, Rutgers University-Newark
+79. Steven Seegel, Professor, University of Texas at Austin
+80. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret. , Columbia University
+81. Madhu Thangavelu, Lecturer, University of Southern California
+82. Steven J. Zipperstein, Professor, Stanford University
