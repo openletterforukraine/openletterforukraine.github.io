@@ -59,65 +59,75 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 7. Wojciech Bujalski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
 8. Jerzy Chojnacki, Ph.D. Sc.Eng., Koszalin University of Technology
 9. Cristiana Croitoru, Ph.D. Habil., Associate Professor, Technical University of Civil Engineering Bucharest
-10. Artur Jerzy Filip, Ph.D., Assistant Professor, Warsaw University of Technology
-11. Angelos Ginannakopoulos, DAAD-Professor, National University of Kyiv-Mohyla Academy & Visiting Professor, University of Düsseldorf
-12. Josip Glaurdić, Ph.D., Associate Professor, University of Luxembourg
-13. Piotr Gołębiowski, Ph.D., Assistant Professor, Warsaw University of Technology
-14. Nick Hacking, Ph.D, School of Social Sciences Cardiff University
-15. Jaap Hogeling, P.Eng., M.Sc., ASHRAE Director-At-Large, Editor-in-Chief of the REHVA-Journal
-16. Oleksandra Ivashchenko, Ph.D., Medical Physicist, Leiden University Medical Center
-17. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
-18. Karol Jan Kowalski, Ph.D., Associate Professor, Warsaw University of Technology
-19. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
-20. Jarek Kurnitski, Prof. Dr. Eng., Professor, Tallinn University of Technology
-21. Detlef Kurth, Prof. Dr.-Ing., Technische Universität Kaiserslautern
-22. Kwieciński Krystian, Ph.D., Assistant Professor, Warsaw University of Technology
-23. Håkan Lane, Research Group Scientific Methods, Brandenburg Medical School
-24. Agnieszka Machowska, Ph.D. D.Sc., Assistant Professor, Warsaw University of Technology
-25. Michał Marzantowicz, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-26. Olaf Mertelsmann, Prof. Dr., University of Tartu
-27. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-28. Izabela Mironowicz, Professor, Gdańsk University of Technology
-29. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
-30. Michael Neuman, Professor, University of Westminster
-31. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-32. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
-33. Paweł Pedrycz, Ph.D., Assistant Professor, Warsaw University of Technology
-34. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
-35. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
-36. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-37. Karol Prałat, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-38. Agnes Psikuta, Ph.D., Swiss Federal Laboratories for Materials Science and Technology
-39. Paula Quinon, Ph.D., Assistant Professor, Warsaw University of Technology
-40. Łukasz Rachel, Ph.D., Princeton University
-41. Roman Ruczyński, Ph.D., Gdańsk University of Technology
-42. Per Anders Rudling, Associate Profossor, Lund University
-43. Robert Sekret, Prof. Dr. Eng., Professor, Czestochowa University of Technology
-44. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
-45. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-46. Rafał Świercz,  Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-47. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-48. Stefan Troebst, Prof. em. Dr., Leipzig University
-49. Hubert Trammer, member of the High Level Roundtable of the New European Bauhaus
-50. Andreas Wagner, Prof. Dipl.-Ing., Karlsruhe Institute of Technology
-51. Janusz Walo, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-52. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
-53. Leszek Wiśniewski, Ph.D. Candidate, Warsaw University of Technology
-54. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-55. Martina Winkler, Prof. Ph. D., Christian-Albrechts-Universität zu Kiel
-56. Alexander Wöll, Professor, University of Potsdam
-57. Kinga Zinowiec-Cieplik Ph.D., Assistant Professor, Warsaw University of Technology
-58. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+10. Franziska Davies, Ph.D., Ludwig-Maximilians-Universität München
+11. Artur Jerzy Filip, Ph.D., Assistant Professor, Warsaw University of Technology
+12. Angelos Ginannakopoulos, DAAD-Professor, National University of Kyiv-Mohyla Academy & Visiting Professor, University of Düsseldorf
+13. Josip Glaurdić, Ph.D., Associate Professor, University of Luxembourg
+14. Piotr Gołębiowski, Ph.D., Assistant Professor, Warsaw University of Technology
+15. Nick Hacking, Ph.D, School of Social Sciences Cardiff University
+16. Olexiy Haran, Prof. Dr., Kyiv Mohyla Academy
+17. Jaap Hogeling, P.Eng., M.Sc., ASHRAE Director-At-Large, Editor-in-Chief of the REHVA-Journal
+18. Oleksandra Ivashchenko, Ph.D., Medical Physicist, Leiden University Medical Center
+19. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
+20. Karol Jan Kowalski, Ph.D., Associate Professor, Warsaw University of Technology
+21. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
+22. Jarek Kurnitski, Prof. Dr. Eng., Professor, Tallinn University of Technology
+23. Detlef Kurth, Prof. Dr.-Ing., Technische Universität Kaiserslautern
+24. Taras Kuzio, National University of Kyiv Mohyla Academy
+25. Kwieciński Krystian, Ph.D., Assistant Professor, Warsaw University of Technology
+26. Håkan Lane, Research Group Scientific Methods, Brandenburg Medical School
+27. Agnieszka Machowska, Ph.D. D.Sc., Assistant Professor, Warsaw University of Technology
+28. Myroslav Marynovych, Vice-Rector for University Mission, Ukrainian Cathoilic University (Lviv)
+29. Michał Marzantowicz, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+30. Olaf Mertelsmann, Prof. Dr., University of Tartu
+31. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+32. Izabela Mironowicz, Professor, Gdańsk University of Technology
+33. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
+34. Ivan M. Myhul, Ph.D., Professor, Ukrainian Free University, Munich
+35. Michael Neuman, Professor, University of Westminster
+36. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+37. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
+38. Paweł Pedrycz, Ph.D., Assistant Professor, Warsaw University of Technology
+39. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
+40. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
+41. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+42. Karol Prałat, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+43. Agnes Psikuta, Ph.D., Swiss Federal Laboratories for Materials Science and Technology
+44. Paula Quinon, Ph.D., Assistant Professor, Warsaw University of Technology
+45. Łukasz Rachel, Ph.D., Princeton University
+46. Roman Ruczyński, Ph.D., Gdańsk University of Technology
+47. Per Anders Rudling, Associate Profossor, Lund University
+48. Robert Sekret, Prof. Dr. Eng., Professor, Czestochowa University of Technology
+49. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
+50. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+51. Rafał Świercz,  Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+52. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+53. Stefan Troebst, Prof. em. Dr., Leipzig University
+54. Hubert Trammer, member of the High Level Roundtable of the New European Bauhaus
+55. Bohdan Vitvitsky, Ph.D., J.D., independent scholar
+56. Andreas Wagner, Prof. Dipl.-Ing., Karlsruhe Institute of Technology
+57. Janusz Walo, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+58. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
+59. Leszek Wiśniewski, Ph.D. Candidate, Warsaw University of Technology
+60. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+61. Martina Winkler, Prof. Ph. D., Christian-Albrechts-Universität zu Kiel
+62. Alexander Wöll, Professor, University of Potsdam
+63. Kinga Zinowiec-Cieplik Ph.D., Assistant Professor, Warsaw University of Technology
+64. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
 
 ### Signatories affiliated outside Europe:
 
-57. David Amborski, Professor, Ryerson University
-58. Omer Bartov, John P. Birkelund Distinguished Professor, Brown University
-59. Olga Bertelsen, Ph.D., Associate Professor, Tiffin University
-60. John Connelly, Professor, University of California, Berkeley
-61. Roger E. Kanet, Ph.D., Professor Emeritus, University of Miami & University of Illinois at Urbana-Champaign
-62. David R. Marples, Distinguished University Professor, University of Alberta
-63. Alexander J. Motyl, Professor, Rutgers University-Newark
-64. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret. , Columbia University
-
-
+65. David Amborski, Professor, Ryerson University
+66. Omer Bartov, John P. Birkelund Distinguished Professor, Brown University
+67. Fabian Baumann, Ph.D., Postdoctoral Researcher, University of Chicago
+68. Olga Bertelsen, Ph.D., Associate Professor, Tiffin University
+69. Walter Clemens, Dr., Associate, Harvard University & Professor Emeritus, Boston University
+70. John Connelly, Professor, University of California, Berkeley
+71. Michael P. Hrycak, J.D., Adj. Professor, Union County College, Cranford, New Jersey
+72. Roger E. Kanet, Ph.D., Professor Emeritus, University of Miami & University of Illinois at Urbana-Champaign
+73. Bohdan Klid, Research Associate, University of Alberta
+74. Askold Lozynskyj, President Ukrainian Free University Foundation
+75. David R. Marples, Distinguished University Professor, University of Alberta
+76. Alexander J. Motyl, Professor, Rutgers University-Newark
+77. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret. , Columbia University
+78. Steven J. Zipperstein, Professor, Stanford University
