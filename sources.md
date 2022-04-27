@@ -1,4 +1,4 @@
-[LETTER](index.md) - [SIGN](index.md#to-sign-this-letter-please-send-your-name-title-position-and-name-of-your-institution-to-openletterforukrainepmme-please-include-i-wish-to-sign-the-open-letter-for-ukraine-in-the-subject-line) - [SIGNATORIES](index.md#signatories) - [SOURCES](sources.md)
+[HOME](index.md) - [HOW TO SIGN?](index.md#to-sign-this-letter-please-send-your-name-title-position-and-name-of-your-institution-to-openletterforukrainepmme-please-include-i-wish-to-sign-the-open-letter-for-ukraine-in-the-subject-line) - [FACTS ON EMBARGO](sources.md) - [SIGNATORIES](index.md#signatories) - [OTHER OPEN LETTERS](letters.md)
 
 ## Sources:
 
