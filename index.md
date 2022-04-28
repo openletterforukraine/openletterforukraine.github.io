@@ -48,7 +48,7 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Signatories:
+### Signatories affilated in Europe:
 
 1. Monika Arczyńska, Ph.D., Adjunct professor, Gdańsk University of Technology
 2. Piotr Balcerowicz, Professor, University of Warsaw
