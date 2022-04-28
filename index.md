@@ -54,7 +54,7 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 2. Piotr Balcerowicz, Professor, University of Warsaw
 3. Karol Bandurski Ph.D., Assistant Professor, Poznan University of Technology
 4. Ewa Bichta, Ph.D. Candidate, Univeristy of Warsaw & Junior researcher, Warsaw University of Technology
-5. Florian Bieber, Professor, Jean Monnet Chair, Center for Southeast European Studies, University of Graz, Austria
+5. Florian Bieber, Professor, Jean Monnet Chair, Center for Southeast European Studies, University of Graz
 6. Anna Bogdan, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
 7. Wojciech Bujalski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
 8. Jerzy Chojnacki, Ph.D. Sc.Eng., Koszalin University of Technology
@@ -132,6 +132,6 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 77. David R. Marples, Distinguished University Professor, University of Alberta
 78. Alexander J. Motyl, Professor, Rutgers University-Newark
 79. Steven Seegel, Professor, University of Texas at Austin
-80. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret. , Columbia University
+80. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret., Columbia University
 81. Madhu Thangavelu, Lecturer, University of Southern California
 82. Steven J. Zipperstein, Professor, Stanford University
