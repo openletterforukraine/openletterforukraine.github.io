@@ -131,23 +131,26 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 
 77. Denise de Alcantara Pereira, Associate Professor, Federal Rural University of Rio de Janeiro
 78. David Amborski, Professor, Ryerson University
-79. Omer Bartov, John P. Birkelund Distinguished Professor, Brown University
-80. Fabian Baumann, Ph.D., Postdoctoral Researcher, University of Chicago
-81. Olga Bertelsen, Ph.D., Associate Professor, Tiffin University
-82. Walter Clemens, Dr., Associate, Harvard University & Professor Emeritus, Boston University
-83. John Connelly, Professor, University of California, Berkeley
-84. Bohdan Hawryluk, Adj. Faculty Adjunct, New York University
-85. Michael P. Hrycak, J.D., Adj. Professor, Union County College, Cranford, New Jersey
-86. Elizabeth Hull, Professor, Rutgers University, New Jersey
-87. Roger E. Kanet, Ph.D., Professor Emeritus, University of Miami & University of Illinois at Urbana-Champaign
-88. Bohdan Klid, Research Associate, University of Alberta
-89. Olha Klymenko, Research Associate, University of Alberta
-90. Askold Lozynskyj, President Ukrainian Free University Foundation
-91. David R. Marples, Distinguished University Professor, University of Alberta
-92. Alexander J. Motyl, Professor, Rutgers University-Newark
-93. Łukasz Rachel, Ph.D., Princeton University
-94. Steven Seegel, Professor, University of Texas at Austin
-95. Frank E. Sysyn, Ph.D., Director of the Peter Jacyk Centre for Ukrainian Historical Research, University of Alberta
-96. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret., Columbia University
-97. Madhu Thangavelu, Lecturer, University of Southern California
-98. Steven J. Zipperstein, Professor, Stanford University
+79. Eduard Baidaus, Ph.D., HREC Postdoctoral Fellow, University of Alberta
+80. Omer Bartov, John P. Birkelund Distinguished Professor, Brown University
+81. Fabian Baumann, Ph.D., Postdoctoral Researcher, University of Chicago
+82. Olga Bertelsen, Ph.D., Associate Professor, Tiffin University
+83. Larysa Bilous, Ph.D., University of Alberta
+84. Walter Clemens, Dr., Associate, Harvard University & Professor Emeritus, Boston University
+85. John Connelly, Professor, University of California, Berkeley
+86. Bohdan Hawryluk, Adj. Faculty Adjunct, New York University
+87. Michael P. Hrycak, J.D., Adj. Professor, Union County College, Cranford, New Jersey
+88. Elizabeth Hull, Professor, Rutgers University, New Jersey
+89. Roger E. Kanet, Ph.D., Professor Emeritus, University of Miami & University of Illinois at Urbana-Champaign
+90. Juozas A. Kazlas, Ph.D., Political Analyst, New York
+91. Bohdan Klid, Research Associate, University of Alberta
+92. Olha Klymenko, Research Associate, University of Alberta
+93. Askold Lozynskyj, President Ukrainian Free University Foundation
+94. David R. Marples, Distinguished University Professor, University of Alberta
+95. Alexander J. Motyl, Professor, Rutgers University-Newark
+96. Łukasz Rachel, Ph.D., Princeton University
+97. Steven Seegel, Professor, University of Texas at Austin
+98. Frank E. Sysyn, Ph.D., Director of the Peter Jacyk Centre for Ukrainian Historical Research, University of Alberta
+99. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret., Columbia University
+100. Madhu Thangavelu, Lecturer, University of Southern California
+101. Steven J. Zipperstein, Professor, Stanford University
