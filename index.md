@@ -148,9 +148,10 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 93. Askold Lozynskyj, President Ukrainian Free University Foundation
 94. David R. Marples, Distinguished University Professor, University of Alberta
 95. Alexander J. Motyl, Professor, Rutgers University-Newark
-96. Łukasz Rachel, Ph.D., Princeton University
-97. Steven Seegel, Professor, University of Texas at Austin
-98. Frank E. Sysyn, Ph.D., Director of the Peter Jacyk Centre for Ukrainian Historical Research, University of Alberta
-99. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret., Columbia University
-100. Madhu Thangavelu, Lecturer, University of Southern California
-101. Steven J. Zipperstein, Professor, Stanford University
+96. Nasir Muhammad, Ph.D. Candidate, Florida International University, Miami
+97. Łukasz Rachel, Ph.D., Princeton University
+98. Steven Seegel, Professor, University of Texas at Austin
+99. Frank E. Sysyn, Ph.D., Director of the Peter Jacyk Centre for Ukrainian Historical Research, University of Alberta
+100. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret., Columbia University
+101. Madhu Thangavelu, Lecturer, University of Southern California
+102. Steven J. Zipperstein, Professor, Stanford University
