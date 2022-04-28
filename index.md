@@ -22,7 +22,7 @@ mistake. It gives to Putin the money he needs to prolong his war, which is unpre
 Europe since World War II and poses a threat to the European Union and to global security.
 Therefore, we appeal for an immediate embargo on Russian fossil fuels.
 
-<iframe src="https://energyandcleanair.github.io/russia_counter_widget/" style="height: 400px; width: 100%; border: none;max-width:600px;margin:0 auto;display:block"></iframe>
+<iframe src="https://energyandcleanair.github.io/russia_counter_widget/" style="height: 450px; width: 100%; border: none;max-width:600px;margin:0 auto;display:block"></iframe>
 
 As scientists, we declare a commitment to focused and intense scientific activities in our fields in
 order to alleviate the adverse economic effects of a sharp reduction in imports of hydrocarbons
