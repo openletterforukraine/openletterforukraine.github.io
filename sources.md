@@ -4,6 +4,8 @@
 
 [Live update - Europe Beyond Coal - EU's Expenses on Russian Fuels](https://beyond-coal.eu/russian-fossil-fuel-tracker/)
 
+[28 April 2022 - Science - How to weaken Russian oil and gas strength](https://www.science.org/doi/10.1126/science.abq4436)
+
 [22 April 2022 - Euronews - Ukraine war: Where does each EU country stand on cutting off Russian oil and gas?](https://www.euronews.com/my-europe/2022/04/16/ukraine-war-where-does-each-eu-country-stand-on-cutting-off-russian-oil-and-gas)
 
 [20 April 2022 - Vox EU - How to implement an EU embargo on Russian oil](https://voxeu.org/article/how-implement-eu-embargo-russian-oil)
