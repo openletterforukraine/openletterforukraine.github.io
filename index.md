@@ -58,144 +58,147 @@ Ukrainian nation, for the good of the free democratic world and for the good of 
 6. Jens Bastian, Ph.D., Independent Financial Sector Analyst & Economic Consultant, Athens
 7. Ewa Bichta, Ph.D. Candidate, Univeristy of Warsaw & Junior researcher, Warsaw University of Technology
 8. Florian Bieber, Professor, Jean Monnet Chair, Center for Southeast European Studies, University of Graz
-9. Anna Bogdan, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-10. Igor Bogoslavskyi, Dr., guest lecturer, University of Bonn
-11. Eric Brousseau, Professor of Economics and Management, Université Paris-Dauphine, PSL
-12. Karsten Brüggemann, Prof. Dr., School of Humanities, Tallinn University
-13. Wojciech Bujalski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-14. Mihai Bujanca; Research Assistant; School of Computer Science, The University of Manchester
-15. Jerzy Chojnacki, Ph.D. Sc.Eng., Koszalin University of Technology
-16. Jens Dietrichson, Ph.D., Senior Researcher, VIVE - The Danish Center for Social Science Research
+9. Uilleam Blacker, Dr., Associate Professor in Comparative East European Culture, School of Slavonic and East European Studies, UCL
+10. Anna Bogdan, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+11. Igor Bogoslavskyi, Dr., guest lecturer, University of Bonn
+12. Eric Brousseau, Professor of Economics and Management, Université Paris-Dauphine, PSL
+13. Karsten Brüggemann, Prof. Dr., School of Humanities, Tallinn University
+14. Wojciech Bujalski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+15. Mihai Bujanca; Research Assistant; School of Computer Science, The University of Manchester
+16. Jerzy Chojnacki, Ph.D. Sc.Eng., Koszalin University of Technology
 17. Edward Hunter Christie, Senior Research Fellow, The Finnish Institute of International Affairs
 18. Cristiana Croitoru, Ph.D. Habil., Associate Professor, Technical University of Civil Engineering Bucharest
 19. Marek Czyński, Ph.D. D.Sc., Associate Professor, West Pomeranien Uniwesity of Technology in Szczecin 
 20. Franziska Davies, Ph.D., Ludwig-Maximilians-Universität München
-21. Andrea I. Frank, Ph.D., Associate Professor, University of Birmingham 
-22. Gerard Govers, Prof. Dr., Vice rector Science, Engineering and Technolog, KU Leuven
-23. Sven Jaros, Ph.D., IOS Regensburg
-24. Artur Jerzy Filip, Ph.D., Assistant Professor, Warsaw University of Technology
-25. Angelos Ginannakopoulos, DAAD-Professor, National University of Kyiv-Mohyla Academy & Visiting Professor, University of Düsseldorf
-26. Josip Glaurdić, Ph.D., Associate Professor, University of Luxembourg
-27. Piotr Gołębiowski, Ph.D., Assistant Professor, Warsaw University of Technology
-28. Nick Hacking, Ph.D, School of Social Sciences Cardiff University
-29. Tomáš Halík. Prof. PhDr., Th.D., dr.h.c., Charles University Prague
-30. Olexiy Haran, Prof. Dr., Kyiv Mohyla Academy
-31. Krzysztof Herner, Chief specialist for digitization, Coal Mining Museum in Zabrze
-32. Jaap Hogeling, P.Eng., M.Sc., ASHRAE Director-At-Large, Editor-in-Chief of the REHVA-Journal
-33. Mieste Hotopp-Riecke, Ph.D., Director, Institute for Caucasica-, Tatarica- und Turkestan-Studies, Magdeburg
-34. Oleksandra Ivashchenko, Ph.D., Medical Physicist, Leiden University Medical Center
-35. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
-36. Oleksandra Keudel, Ph.D., Kyiv School of Economics
-37. Diane P. Koenker, Professor of Russian and Soviet History, UCL School of Slavonic and East European Studies
-38. Karol Jan Kowalski, Ph.D., Associate Professor, Warsaw University of Technology
-39. Alex Krouglov, Ph.D., Associate Professor, University College London
-40. Markus Krzoska, Dr. hab., Privatdozent, Justus-Liebig-Universität, Giessen
-41. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
-42. Jarek Kurnitski, Prof. Dr. Eng., Professor, Tallinn University of Technology
-43. Detlef Kurth, Prof. Dr.-Ing., Technische Universität Kaiserslautern
-44. Taras Kuzio, Professor, National University of Kyiv Mohyla Academy
-45. Kwieciński Krystian, Ph.D., Assistant Professor, Warsaw University of Technology
-46. Håkan Lane, Research Group Scientific Methods, Brandenburg Medical School
-47. Viktoriia Lapa, Lecturer, Bocconi University, Milan & Assistant Professor of Law, Alfred Nobel University, Dnipro
-48. Annika Lindskog, Senior lecturer in Economics, School of Economics, Business and Law, University of Gothenburg
-49. Agnieszka Machowska, Ph.D. D.Sc., Assistant Professor, Warsaw University of Technology
-50. Myroslav Marynovych, Vice-Rector for University Mission, Ukrainian Cathoilic University (Lviv)
-51. Michał Marzantowicz, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-52. Olaf Mertelsmann, Prof. Dr., University of Tartu
-53. Christian Methfessel, Ph.D., Leibniz Institute for Contemporary History (München - Berlin)
-54. Caroline Mezger, Ph.D., Visiting Assistant Professor, Ludwig-Maximilians-University of Munich
-55. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-56. Izabela Mironowicz, Professor, Gdańsk University of Technology
-57. Michal Mochtak, Ph.D., Visiting Researcher, University of Luxembourg
-58. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
-59. Peter Münch, Prof, Dr. iur., ZHAW School of Management and Law, Winterthur
-60. Ivan M. Myhul, Ph.D., Professor, Ukrainian Free University, Munich
-61. Monika Neff, Ph.D., Assistant Professor, Warsaw University of Technology
-62. Michael Neuman, Professor, University of Westminster
-63. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-64. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
-65. Didier Paris, Professor, University of Lille
-66. Illia Pasichnichenko, Ph.D., Research Fellow, University of Bristol
-67. Lex Paulson, Lecturer in Advocacy and Human Rights, Sciences Po-Paris
-68. Paweł Pedrycz, Ph.D., Assistant Professor, Warsaw University of Technology
-69. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
-70. Andreas Petersen, Ph.D., Lecturer, FHNW University of Applied Sciences and Arts Northwestern Switzerland
-71. Hans-Christian Petersen, Prof. Dr., Carl von Ossietzky University Oldenburg
-72. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
-73. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-74. Richard Portes, Professor of Economics, London Business School
-75. Karol Prałat, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-76. Agnes Psikuta, Ph.D., Swiss Federal Laboratories for Materials Science and Technology
-77. Paula Quinon, Ph.D., Assistant Professor, Warsaw University of Technology
-78. Oliver Reisner, Professor, Ilia State University Tbilisi
-79. Mykola Riabchuk, the Honorary President of Ukrainian PEN Center & Senior Research Fellow, Academy of Sciences of Ukraine
-80. Neil Robinson, Professor, Department of Politics and Public Administration, University of Limerick
-81. Roman Ruczyński, Ph.D., Gdańsk University of Technology
-82. Per Anders Rudling, Associate Profossor, Lund University
-83. Sabine Rutar, Ph.D., Editor-in-Chief/Senior Researcher, Leibniz-Institute for East and Southeast European Studies, Regensburg
-84. Yuliya von Saal, Ph.D., Leibniz Institute for Contemporary History (München - Berlin)
-85. Robert Sekret, Prof. Dr. Eng., Professor, Czestochowa University of Technology
-86. Nikola Schmidt, Ph.D., Senior Researcher, Institute of International Relations, Prague
-87. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
-88. Melissa Sterry, Ph.D., Director, Bioratorium, United Kingdom
-89. Cyrill Stachniss, Prof. Dr., University of Bonn, Germany
-90. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-91. Rafał Świercz,  Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-92. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
-93. Maxim Tatarchenko, Ph.D., Research scientist, Bosch Center for Artificial Intelligence
-94. Stefan Troebst, Prof. em. Dr., Leipzig University
-95. Hubert Trammer, member of the High Level Roundtable of the New European Bauhaus
-96. Bohdan Vitvitsky, Ph.D., J.D., independent scholar
-97. Andreas Wagner, Prof. Dipl.-Ing., Karlsruhe Institute of Technology
-98. Janusz Walo, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-99. Rainer Wedde, Prof. Dr., Wiesbaden Business School Hochschule RheinMain
-100. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
-101. Leszek Wiśniewski, Ph.D. Candidate, Warsaw University of Technology
-102. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-103. Martina Winkler, Prof. Ph. D., Christian-Albrechts-Universität zu Kiel
-104. Thomas Wortmann, Tenure-Track Professor, University of Stuttgart
-105. Alexander Wöll, Professor, University of Potsdam
-106. Kinga Zinowiec-Cieplik Ph.D., Assistant Professor, Warsaw University of Technology
-107. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
-108. Magdalena Żmudzińska-Nowak, Ph.D. DSc., Professor, Silesian University of Technology 
+21. Jens Dietrichson, Ph.D., Senior Researcher, VIVE - The Danish Center for Social Science Research
+22. Andrea I. Frank, Ph.D., Associate Professor, University of Birmingham 
+23. Kai Gehring, Dr., Professor for Political Economy and Sustainable Development, Department of Economics & Wyss Academy at the University of Bern
+24. Gerard Govers, Prof. Dr., Vice rector Science, Engineering and Technolog, KU Leuven
+25. Sven Jaros, Ph.D., IOS Regensburg
+26. Artur Jerzy Filip, Ph.D., Assistant Professor, Warsaw University of Technology
+27. Angelos Ginannakopoulos, DAAD-Professor, National University of Kyiv-Mohyla Academy & Visiting Professor, University of Düsseldorf
+28. Josip Glaurdić, Ph.D., Associate Professor, University of Luxembourg
+29. Piotr Gołębiowski, Ph.D., Assistant Professor, Warsaw University of Technology
+30. Nick Hacking, Ph.D, School of Social Sciences Cardiff University
+31. Tomáš Halík. Prof. PhDr., Th.D., dr.h.c., Charles University Prague
+32. Olexiy Haran, Prof. Dr., Kyiv Mohyla Academy
+33. Krzysztof Herner, Chief specialist for digitization, Coal Mining Museum in Zabrze
+34. Jaap Hogeling, P.Eng., M.Sc., ASHRAE Director-At-Large, Editor-in-Chief of the REHVA-Journal
+35. Mieste Hotopp-Riecke, Ph.D., Director, Institute for Caucasica-, Tatarica- und Turkestan-Studies, Magdeburg
+36. Oleksandra Ivashchenko, Ph.D., Medical Physicist, Leiden University Medical Center
+37. Artur Karczewski, Ph.D., Adiunkt, Gdańsk University of Technology
+38. Oleksandra Keudel, Ph.D., Kyiv School of Economics
+39. Diane P. Koenker, Professor of Russian and Soviet History, UCL School of Slavonic and East European Studies
+40. Karol Jan Kowalski, Ph.D., Associate Professor, Warsaw University of Technology
+41. Alex Krouglov, Ph.D., Associate Professor, University College London
+42. Markus Krzoska, Dr. hab., Privatdozent, Justus-Liebig-Universität, Giessen
+43. Konrad Kucza-Kuczyński, Prof. Ph.D. D.Sc., Professor Emeritus, Warsaw University of Technology
+44. Jarek Kurnitski, Prof. Dr. Eng., Professor, Tallinn University of Technology
+45. Detlef Kurth, Prof. Dr.-Ing., Technische Universität Kaiserslautern
+46. Taras Kuzio, Professor, National University of Kyiv Mohyla Academy
+47. Kwieciński Krystian, Ph.D., Assistant Professor, Warsaw University of Technology
+48. Håkan Lane, Research Group Scientific Methods, Brandenburg Medical School
+49. Viktoriia Lapa, Lecturer, Bocconi University, Milan & Assistant Professor of Law, Alfred Nobel University, Dnipro
+50. Annika Lindskog, Senior lecturer in Economics, School of Economics, Business and Law, University of Gothenburg
+51. Agnieszka Machowska, Ph.D. D.Sc., Assistant Professor, Warsaw University of Technology
+52. Myroslav Marynovych, Vice-Rector for University Mission, Ukrainian Cathoilic University (Lviv)
+53. Michał Marzantowicz, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+54. Olaf Mertelsmann, Prof. Dr., University of Tartu
+55. Christian Methfessel, Ph.D., Leibniz Institute for Contemporary History (München - Berlin)
+56. Caroline Mezger, Ph.D., Visiting Assistant Professor, Ludwig-Maximilians-University of Munich
+57. Hanna Michalak, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+58. Izabela Mironowicz, Professor, Gdańsk University of Technology
+59. Michal Mochtak, Ph.D., Visiting Researcher, University of Luxembourg
+60. Katarzyna Modrzejewska, Ph.D., Warsaw University of Technology
+61. Peter Münch, Prof, Dr. iur., ZHAW School of Management and Law, Winterthur
+62. Ivan M. Myhul, Ph.D., Professor, Ukrainian Free University, Munich
+63. Monika Neff, Ph.D., Assistant Professor, Warsaw University of Technology
+64. Michael Neuman, Professor, University of Westminster
+65. Mirosław Orzechowski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+66. Karolina Ostrowska-Wawryniuk, Ph.D. Candidate, Warsaw University of Technology
+67. Didier Paris, Professor, University of Lille
+68. Illia Pasichnichenko, Ph.D., Research Fellow, University of Bristol
+69. Lex Paulson, Lecturer in Advocacy and Human Rights, Sciences Po-Paris
+70. Paweł Pedrycz, Ph.D., Assistant Professor, Warsaw University of Technology
+71. Thomas Pellerin-Carlin, Jacques Delors Energy Centre
+72. Andreas Petersen, Ph.D., Lecturer, FHNW University of Applied Sciences and Arts Northwestern Switzerland
+73. Hans-Christian Petersen, Prof. Dr., Carl von Ossietzky University Oldenburg
+74. Łukasz Piątek, Ph.D., Assistant Professor, Warsaw University of Technology
+75. Paweł Popielski, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+76. Richard Portes, Professor of Economics, London Business School
+77. Karol Prałat, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+78. Agnes Psikuta, Ph.D., Swiss Federal Laboratories for Materials Science and Technology
+79. Paula Quinon, Ph.D., Assistant Professor, Warsaw University of Technology
+80. Oliver Reisner, Professor, Ilia State University Tbilisi
+81. Mykola Riabchuk, the Honorary President of Ukrainian PEN Center & Senior Research Fellow, Academy of Sciences of Ukraine
+82. Neil Robinson, Professor, Department of Politics and Public Administration, University of Limerick
+83. Roman Ruczyński, Ph.D., Gdańsk University of Technology
+84. Per Anders Rudling, Associate Profossor, Lund University
+85. Sabine Rutar, Ph.D., Editor-in-Chief/Senior Researcher, Leibniz-Institute for East and Southeast European Studies, Regensburg
+86. Yuliya von Saal, Ph.D., Leibniz Institute for Contemporary History (München - Berlin)
+87. Robert Sekret, Prof. Dr. Eng., Professor, Czestochowa University of Technology
+88. Nikola Schmidt, Ph.D., Senior Researcher, Institute of International Relations, Prague
+89. Robert Skrzypczyński, Ph.D. Candidate, Wroclaw University of Science and Technology
+90. Melissa Sterry, Ph.D., Director, Bioratorium, United Kingdom
+91. Cyrill Stachniss, Prof. Dr., University of Bonn, Germany
+92. Krystyna Solarek, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+93. Rafał Świercz,  Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+94. Konrad Świrski, Prof. Ph.D. D.Sc., Professor, Warsaw University of Technology
+95. Maxim Tatarchenko, Ph.D., Research scientist, Bosch Center for Artificial Intelligence
+96. Stefan Troebst, Prof. em. Dr., Leipzig University
+97. Hubert Trammer, member of the High Level Roundtable of the New European Bauhaus
+98. Bohdan Vitvitsky, Ph.D., J.D., independent scholar
+99. Andreas Wagner, Prof. Dipl.-Ing., Karlsruhe Institute of Technology
+100. Janusz Walo, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+101. Rainer Wedde, Prof. Dr., Wiesbaden Business School Hochschule RheinMain
+102. Przemysław Wielowiejski, Ph.D., Copernicus Science Centre
+103. Leszek Wiśniewski, Ph.D. Candidate, Warsaw University of Technology
+104. Anna Wierzbicka, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+105. Martina Winkler, Prof. Ph. D., Christian-Albrechts-Universität zu Kiel
+106. Thomas Wortmann, Tenure-Track Professor, University of Stuttgart
+107. Alexander Wöll, Professor, University of Potsdam
+108. Kinga Zinowiec-Cieplik Ph.D., Assistant Professor, Warsaw University of Technology
+109. Jolanta Żak, Ph.D. D.Sc., Associate Professor, Warsaw University of Technology
+110. Magdalena Żmudzińska-Nowak, Ph.D. DSc., Professor, Silesian University of Technology 
 
 ### Signatories affiliated outside Europe:
 
-109. Denise de Alcantara Pereira, Associate Professor, Federal Rural University of Rio de Janeiro
-110. David Amborski, Professor, Ryerson University
-111. Eduard Baidaus, Ph.D., HREC Postdoctoral Fellow, University of Alberta
-112. Jars Balan, Director, Kule Ukrainian Canadian Studies Centre, University of Alberta
-113. Omer Bartov, John P. Birkelund Distinguished Professor, Brown University
-114. Fabian Baumann, Ph.D., Postdoctoral Researcher, University of Chicago
-115. Olga Bertelsen, Ph.D., Associate Professor, Tiffin University
-116. Larysa Bilous, Ph.D., University of Alberta
-117. Patrick A. Burr, Dr., Senior Lecturer in Nuclear Engineering, The University of New South Wales
-118. Walter Clemens, Dr., Associate, Harvard University & Professor Emeritus, Boston University
-119. John Connelly, Professor, University of California, Berkeley
-120. Bohdan Hawryluk, Adj. Faculty Adjunct, New York University
-121. Michael P. Hrycak, J.D., Adj. Professor, Union County College, Cranford, New Jersey
-122. Elizabeth Hull, Professor, Rutgers University, New Jersey
-123. Roger E. Kanet, Ph.D., Professor Emeritus, University of Miami & University of Illinois at Urbana-Champaign
-124. Juozas A. Kazlas, Ph.D., Political Analyst, New York
-125. Bohdan Klid, Research Associate, University of Alberta
-126. Olha Klymenko, Research Associate, University of Alberta
-127. Askold Lozynskyj, President Ukrainian Free University Foundation
-128. David R. Marples, Distinguished University Professor, University of Alberta
-129. Changho Moon, Professor Emeritus, Kunsan National University
-130. Alexander J. Motyl, Professor, Rutgers University-Newark
-131. Nasir Muhammad, Ph.D. Candidate, Florida International University, Miami
-132. Jan Musekamp, DAAD Visiting Associate Professor, University of Pittsburgh
-133. Richard Parker, Prof., Senior Fellow and Lecturer, John F. Kennedy School of Government, Harvard University
-134. Łukasz Rachel, Ph.D., Princeton University
-135. Steven Seegel, Professor, University of Texas at Austin
-136. Marko R. Stech, Director of CIUS Press and Scholarly Publications, University of Alberta
-137. Frank E. Sysyn, Ph.D., Director of the Peter Jacyk Centre for Ukrainian Historical Research, University of Alberta
-138. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret., Columbia University
-139. Madhu Thangavelu, Lecturer, University of Southern California
-140. Steven J. Zipperstein, Professor, Stanford University
+111. Denise de Alcantara Pereira, Associate Professor, Federal Rural University of Rio de Janeiro
+112. David Amborski, Professor, Ryerson University
+113. Eduard Baidaus, Ph.D., HREC Postdoctoral Fellow, University of Alberta
+114. Jars Balan, Director, Kule Ukrainian Canadian Studies Centre, University of Alberta
+115. Omer Bartov, John P. Birkelund Distinguished Professor, Brown University
+116. Fabian Baumann, Ph.D., Postdoctoral Researcher, University of Chicago
+117. Dirk Bergemann, Douglass and Marion Campbell Professor of Economics, Yale University, New Haven
+118. Olga Bertelsen, Ph.D., Associate Professor, Tiffin University
+119. Larysa Bilous, Ph.D., University of Alberta
+120. Patrick A. Burr, Dr., Senior Lecturer in Nuclear Engineering, The University of New South Wales
+121. Walter Clemens, Dr., Associate, Harvard University & Professor Emeritus, Boston University
+122. John Connelly, Professor, University of California, Berkeley
+123. Bohdan Hawryluk, Adj. Faculty Adjunct, New York University
+124. Michael P. Hrycak, J.D., Adj. Professor, Union County College, Cranford, New Jersey
+125. Elizabeth Hull, Professor, Rutgers University, New Jersey
+126. Roger E. Kanet, Ph.D., Professor Emeritus, University of Miami & University of Illinois at Urbana-Champaign
+127. Juozas A. Kazlas, Ph.D., Political Analyst, New York
+128. Bohdan Klid, Research Associate, University of Alberta
+129. Olha Klymenko, Research Associate, University of Alberta
+130. Askold Lozynskyj, President Ukrainian Free University Foundation
+131. David R. Marples, Distinguished University Professor, University of Alberta
+132. Changho Moon, Professor Emeritus, Kunsan National University
+133. Alexander J. Motyl, Professor, Rutgers University-Newark
+134. Nasir Muhammad, Ph.D. Candidate, Florida International University, Miami
+135. Jan Musekamp, DAAD Visiting Associate Professor, University of Pittsburgh
+136. Richard Parker, Prof., Senior Fellow and Lecturer, John F. Kennedy School of Government, Harvard University
+137. Łukasz Rachel, Ph.D., Princeton University
+138. Steven Seegel, Professor, University of Texas at Austin
+139. Marko R. Stech, Director of CIUS Press and Scholarly Publications, University of Alberta
+140. Frank E. Sysyn, Ph.D., Director of the Peter Jacyk Centre for Ukrainian Historical Research, University of Alberta
+141. Yuriy Tarnawsky, Ph.D., Asst. Adj. Professor, Ret., Columbia University
+142. Madhu Thangavelu, Lecturer, University of Southern California
+143. Steven J. Zipperstein, Professor, Stanford University
 
 ### Non-academic Supporters:
 
-141.   Alexander Gendler, Chicago Jewish Cafe
-142. Rebecca Harms, former MEP, Energy and Climate Expert, Germany
-143. Oleksandra Matviichuk, human rights defender, head of Center for Civil Liberties, Kyiv
+144.  Alexander Gendler, Chicago Jewish Cafe
+145. Rebecca Harms, former MEP, Energy and Climate Expert, Germany
+146. Oleksandra Matviichuk, human rights defender, head of Center for Civil Liberties, Kyiv
